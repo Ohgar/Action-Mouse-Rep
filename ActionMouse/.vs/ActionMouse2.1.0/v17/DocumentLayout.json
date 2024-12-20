@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AddOnStudioWoW-7.0.240726.0\\AddOn Studio Projects\\ActionMouse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24B87C90-6523-46E2-A315-8798E8EC2BA0}|ActionMouse.wowproj|C:\\AddOnStudioWoW-7.0.240726.0\\AddOn Studio Projects\\ActionMouse\\Menu.lua||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{24B87C90-6523-46E2-A315-8798E8EC2BA0}|ActionMouse.wowproj|solutionrelative:Menu.lua||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B87C90-6523-46E2-A315-8798E8EC2BA0}|ActionMouse.wowproj|C:\\AddOnStudioWoW-7.0.240726.0\\AddOn Studio Projects\\ActionMouse\\Frame.lua||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{24B87C90-6523-46E2-A315-8798E8EC2BA0}|ActionMouse.wowproj|solutionrelative:Frame.lua||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B87C90-6523-46E2-A315-8798E8EC2BA0}|ActionMouse.wowproj|C:\\AddOnStudioWoW-7.0.240726.0\\AddOn Studio Projects\\ActionMouse\\ActionMouse.toc||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{24B87C90-6523-46E2-A315-8798E8EC2BA0}|ActionMouse.wowproj|solutionrelative:ActionMouse.toc||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B87C90-6523-46E2-A315-8798E8EC2BA0}|ActionMouse.wowproj|C:\\AddOnStudioWoW-7.0.240726.0\\AddOn Studio Projects\\ActionMouse\\Bindings.xml||{D5C94126-E975-47A2-83D1-FB11245F7ADC}",
+      "RelativeMoniker": "D:0:0:{24B87C90-6523-46E2-A315-8798E8EC2BA0}|ActionMouse.wowproj|solutionrelative:Bindings.xml||{D5C94126-E975-47A2-83D1-FB11245F7ADC}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 253,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{9a3886bf-2dcb-401c-92ed-07bc30012aab}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bindings.xml",
+              "DocumentMoniker": "C:\\AddOnStudioWoW-7.0.240726.0\\AddOn Studio Projects\\ActionMouse\\Bindings.xml",
+              "RelativeDocumentMoniker": "Bindings.xml",
+              "ToolTip": "C:\\AddOnStudioWoW-7.0.240726.0\\AddOn Studio Projects\\ActionMouse\\Bindings.xml",
+              "RelativeToolTip": "Bindings.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-10-10T15:52:43.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frame.lua",
+              "DocumentMoniker": "C:\\AddOnStudioWoW-7.0.240726.0\\AddOn Studio Projects\\ActionMouse\\Frame.lua",
+              "RelativeDocumentMoniker": "Frame.lua",
+              "ToolTip": "C:\\AddOnStudioWoW-7.0.240726.0\\AddOn Studio Projects\\ActionMouse\\Frame.lua",
+              "RelativeToolTip": "Frame.lua",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAAALoAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-05T02:55:50.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.lua",
+              "DocumentMoniker": "C:\\AddOnStudioWoW-7.0.240726.0\\AddOn Studio Projects\\ActionMouse\\Menu.lua",
+              "RelativeDocumentMoniker": "Menu.lua",
+              "ToolTip": "C:\\AddOnStudioWoW-7.0.240726.0\\AddOn Studio Projects\\ActionMouse\\Menu.lua",
+              "RelativeToolTip": "Menu.lua",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAAAJ0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-05T02:55:03.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ActionMouse.toc",
+              "DocumentMoniker": "C:\\AddOnStudioWoW-7.0.240726.0\\AddOn Studio Projects\\ActionMouse\\ActionMouse.toc",
+              "RelativeDocumentMoniker": "ActionMouse.toc",
+              "ToolTip": "C:\\AddOnStudioWoW-7.0.240726.0\\AddOn Studio Projects\\ActionMouse\\ActionMouse.toc",
+              "RelativeToolTip": "ActionMouse.toc",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-05T02:54:55.417Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 171,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+<Project ToolsVersion="4.0" DefaultTargets="Deploy" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>ActionMouse</Name>
+    <ProjectGuid>24b87c90-6523-46e2-a315-8798e8ec2ba0</ProjectGuid>
+    <AssemblyName>ActionMouse2.0</AssemblyName>
+    <RootNamespace>ActionMouse2.0</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="ActionMouse.toc">
+      <SubType>TableOfContents</SubType>
+    </Content>
+    <Content Include="BagAutomation.lua">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="CombatAutomation.lua">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="PopupAutomation.lua">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="MapAutomation.lua">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="PanelAutomation.lua">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="ReticleManager.lua">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="StateManager.lua">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Main.lua">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Menu.lua">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Bindings.xml">
+      <SubType>Frame</SubType>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(DevEnvDir)\Extensions\Tools\MSBuild\AddonStudio\Wow\3.0\WowAddonStudio.targets" />
+  <!--
+  To modify your build process, add your task inside one of the targets below and uncomment it.
+  <Target Name="BeforeClean"></Target>
+  <Target Name="AfterClean"></Target>
+  <Target Name="BeforeRebuild"></Target>
+  <Target Name="AfterRebuild"></Target>
+  <Target Name="BeforeDeploy"></Target>
+  <Target Name="AfterDeploy"></Target>
+  -->
+</Project>

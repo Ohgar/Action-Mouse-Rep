@@ -1,0 +1,8 @@
+<Bindings>
+	<Binding name="Toggle Action Mode" category="Action Mouse">
+		ActionMouse.ToggleKeybindActivation()
+	</Binding>
+	<Binding name="Force Stop/Start" category="Action Mouse">
+		ActionMouse.ForceFunction()
+	</Binding>
+</Bindings>
